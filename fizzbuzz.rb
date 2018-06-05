@@ -1,3 +1,3 @@
-number = 5
-if number == 3
-  puts "fizz"
+def fizzbuzz(number)
+  if(number % 3 == 0)
+end
