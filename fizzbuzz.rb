@@ -5,4 +5,9 @@ def fizzbuzz(int)
     puts "Fizz"
   elsif(int % 5 == 0)
     puts "Buzz"
+  end
 end
+
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(15)
