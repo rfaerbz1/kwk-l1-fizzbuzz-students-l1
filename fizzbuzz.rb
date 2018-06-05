@@ -11,4 +11,4 @@ end
 fizzbuzz(3)
 fizzbuzz(5)
 fizzbuzz(15)
-fixxbuxx(4)
+fizzbuzz(4)
